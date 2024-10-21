@@ -3,5 +3,9 @@ h1 {
 }
 
 p {
-    color: darksalmon;
+    color: darkmagenta;
+}
+
+div {
+    background-color: lavender;
 }
